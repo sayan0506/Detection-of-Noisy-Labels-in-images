@@ -8,3 +8,5 @@ Detection of Noisy Labels in images
 exploring techniques and remedies in medical
 image analysis
 ](https://arxiv.org/pdf/1912.02911.pdf)
+* [Awesome-Learning-with-Label-Noise
+](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
