@@ -11,3 +11,4 @@ image analysis
 ](https://arxiv.org/pdf/1912.02911.pdf)
 * [Awesome-Learning-with-Label-Noise
 ](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
+* [Learning from Massive Noisy Labeled Data for Image Classification](https://openaccess.thecvf.com/content_cvpr_2015/papers/Xiao_Learning_From_Massive_2015_CVPR_paper.pdf)
